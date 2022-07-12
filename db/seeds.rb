@@ -8,8 +8,8 @@
 
 Message.create([
     { message: "Hello World!" },
-    { message: "Hello World!" },
-    { message: "Hello World!" },
-    { message: "Hello World!" },
-    { message: "Hello World!" },
+    { message: "Welcome to the new world!" },
+    { message: "Happy coding!" },
+    { message: "Coding is not easy!" },
+    { message: "Good luck and see you later!" },
 ])
